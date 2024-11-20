@@ -1,2 +1,2 @@
-# ANTLR.compiler
-test command line lab to ANTLR
+# function.languange
+function separater
