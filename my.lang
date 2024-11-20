@@ -1,5 +1,9 @@
-
-func
+funca
+{
+a=10
+b="xxxx"
+}
+funcb
 {
 a=10
 b="xxxx"
